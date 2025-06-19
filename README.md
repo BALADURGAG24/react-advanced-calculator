@@ -98,15 +98,6 @@ npm run build
 
 ---
 
-## 📸 Screenshots
-
-### 🌓 Light & Dark Theme
-![Theme Toggle](https://your-image-url)
-
-### 🔢 Scientific and Voice Input
-![Calculator](https://your-image-url)
-
----
 
 ## 🧪 Technical Notes
 
