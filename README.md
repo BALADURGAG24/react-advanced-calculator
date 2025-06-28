@@ -19,7 +19,7 @@ A professional-grade, modern, scientific calculator built with **React.js**. Thi
 - Toggle between **Light** and **Dark** modes  
 - Button: 🌙 / ☀️
 
-### 🧠 History Tracking
+### 🧠 History Tracking 
 - All calculations are stored in a session-based history
 - History is displayed in a **left-hand sidebar**
 - Most recent calculations appear at the top
