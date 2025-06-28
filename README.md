@@ -16,7 +16,7 @@ A professional-grade, modern, scientific calculator built with **React.js**. Thi
 - Error handling for invalid inputs
 
 ### 🎨 Theming
-- Toggle between **Light** and **Dark** modes
+- Toggle between **Light** and **Dark** modes 
 - Button: 🌙 / ☀️
 
 ### 🧠 History Tracking
