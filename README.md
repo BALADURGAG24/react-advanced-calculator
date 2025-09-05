@@ -14,7 +14,7 @@ A professional-grade, modern, scientific calculator built with **React.js**. Thi
 - Logarithmic function: `log` 
 - Scientific notation toggle (`sci`)
 - Error handling for invalid inputs
-
+ 
 ### 🎨 Theming
 - Toggle between **Light** and **Dark** modes  
 - Button: 🌙 / ☀️
@@ -139,6 +139,7 @@ Developed by [BALADURGAG24].
 Feel free to open issues, PRs, or feature requests.
 
 ---
+
 
 
 
