@@ -11,7 +11,7 @@ A professional-grade, modern, scientific calculator built with **React.js**. Thi
 - Decimal handling and parentheses 
 - Square root support via `√` 
 - Trigonometric functions: `sin`, `cos`, `tan`
-- Logarithmic function: `log` 
+- Logarithmic function: `log`  
 - Scientific notation toggle (`sci`)
 - Error handling for invalid inputs
  
@@ -139,6 +139,7 @@ Developed by [BALADURGAG24].
 Feel free to open issues, PRs, or feature requests.
 
 ---
+
 
 
 
