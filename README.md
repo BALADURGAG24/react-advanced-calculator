@@ -74,7 +74,6 @@ Directory structure:
         │   └── __pycache__/
         └── templates/
             └── myapp.html
-
 ```
 
 ## 🚀 Getting Started
@@ -155,6 +154,7 @@ Developed by [BALADURGAG24].
 Feel free to open issues, PRs, or feature requests.
 
 ---
+
 
 
 
