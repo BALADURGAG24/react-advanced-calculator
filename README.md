@@ -47,33 +47,16 @@ A professional-grade, modern, scientific calculator built with **React.js**. Thi
 
 ```
 Directory structure:
-└── baladurgag24-django-event-countdown-website/
+└── baladurgag24-react-advanced-calculator/
     ├── README.md
-    ├── db.sqlite3
     ├── LICENSE
-    ├── manage.py
-    ├── countdown/
-    │   ├── __init__.py
-    │   ├── asgi.py
-    │   ├── settings.py
-    │   ├── urls.py
-    │   ├── wsgi.py
-    │   └── __pycache__/
-    └── home/
-        ├── __init__.py
-        ├── admin.py
-        ├── apps.py
-        ├── models.py
-        ├── tests.py
-        ├── urls.py
-        ├── views.py
-        ├── __pycache__/
-        ├── migrations/
-        │   ├── 0001_initial.py
-        │   ├── __init__.py
-        │   └── __pycache__/
-        └── templates/
-            └── myapp.html
+    ├── package.json
+    ├── public/
+    │   └── index.html
+    └── src/
+        ├── App.js
+        ├── index.js
+        └── styles.css
 ```
 
 ## 🚀 Getting Started
@@ -154,6 +137,7 @@ Developed by [BALADURGAG24].
 Feel free to open issues, PRs, or feature requests.
 
 ---
+
 
 
 
